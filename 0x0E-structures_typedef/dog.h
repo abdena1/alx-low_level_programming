@@ -32,4 +32,4 @@
 	int _strlen(char *s);
 
 
-	#endif /* doh_h */
+	#endif
