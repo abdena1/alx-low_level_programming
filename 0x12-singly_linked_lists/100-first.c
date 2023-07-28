@@ -3,9 +3,9 @@
 void first(void) __attribute__ ((constructor));
 
 /**
- * firsts - print a sentence before the main
+ * first - print a sentence before the main
  * function is executed
- */
+*/
 void first(void)
 {
 	printf("You're beat! and yet, you must allow,\n");
